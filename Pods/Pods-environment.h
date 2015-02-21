@@ -1,0 +1,104 @@
+
+// To check if a library is compiled with CocoaPods you
+// can use the `COCOAPODS` macro definition which is
+// defined in the xcconfigs so it is available in
+// headers also when they are imported in the client
+// project.
+
+
+// AFNetworking
+#define COCOAPODS_POD_AVAILABLE_AFNetworking
+#define COCOAPODS_VERSION_MAJOR_AFNetworking 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking 4
+#define COCOAPODS_VERSION_PATCH_AFNetworking 1
+
+// AFNetworking/NSURLConnection
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_NSURLConnection
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_NSURLConnection 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_NSURLConnection 4
+#define COCOAPODS_VERSION_PATCH_AFNetworking_NSURLConnection 1
+
+// AFNetworking/NSURLSession
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_NSURLSession
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_NSURLSession 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_NSURLSession 4
+#define COCOAPODS_VERSION_PATCH_AFNetworking_NSURLSession 1
+
+// AFNetworking/Reachability
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Reachability
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Reachability 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Reachability 4
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Reachability 1
+
+// AFNetworking/Security
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Security
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Security 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Security 4
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Security 1
+
+// AFNetworking/Serialization
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_Serialization
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_Serialization 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_Serialization 4
+#define COCOAPODS_VERSION_PATCH_AFNetworking_Serialization 1
+
+// AFNetworking/UIKit
+#define COCOAPODS_POD_AVAILABLE_AFNetworking_UIKit
+#define COCOAPODS_VERSION_MAJOR_AFNetworking_UIKit 2
+#define COCOAPODS_VERSION_MINOR_AFNetworking_UIKit 4
+#define COCOAPODS_VERSION_PATCH_AFNetworking_UIKit 1
+
+// HMSegmentedControl
+#define COCOAPODS_POD_AVAILABLE_HMSegmentedControl
+#define COCOAPODS_VERSION_MAJOR_HMSegmentedControl 1
+#define COCOAPODS_VERSION_MINOR_HMSegmentedControl 4
+#define COCOAPODS_VERSION_PATCH_HMSegmentedControl 0
+
+// KNSemiModalViewController
+#define COCOAPODS_POD_AVAILABLE_KNSemiModalViewController
+#define COCOAPODS_VERSION_MAJOR_KNSemiModalViewController 0
+#define COCOAPODS_VERSION_MINOR_KNSemiModalViewController 3
+#define COCOAPODS_VERSION_PATCH_KNSemiModalViewController 0
+
+// MXLCalendarManager
+#define COCOAPODS_POD_AVAILABLE_MXLCalendarManager
+#define COCOAPODS_VERSION_MAJOR_MXLCalendarManager 0
+#define COCOAPODS_VERSION_MINOR_MXLCalendarManager 0
+#define COCOAPODS_VERSION_PATCH_MXLCalendarManager 2
+
+// PureLayout
+#define COCOAPODS_POD_AVAILABLE_PureLayout
+#define COCOAPODS_VERSION_MAJOR_PureLayout 2
+#define COCOAPODS_VERSION_MINOR_PureLayout 0
+#define COCOAPODS_VERSION_PATCH_PureLayout 4
+
+// RaptureXML@Gilt
+#define COCOAPODS_POD_AVAILABLE_RaptureXML_Gilt
+#define COCOAPODS_VERSION_MAJOR_RaptureXML_Gilt 1
+#define COCOAPODS_VERSION_MINOR_RaptureXML_Gilt 0
+#define COCOAPODS_VERSION_PATCH_RaptureXML_Gilt 3
+
+// Reader
+#define COCOAPODS_POD_AVAILABLE_Reader
+#define COCOAPODS_VERSION_MAJOR_Reader 2
+#define COCOAPODS_VERSION_MINOR_Reader 8
+#define COCOAPODS_VERSION_PATCH_Reader 4
+
+// SVProgressHUD
+#define COCOAPODS_POD_AVAILABLE_SVProgressHUD
+#define COCOAPODS_VERSION_MAJOR_SVProgressHUD 1
+#define COCOAPODS_VERSION_MINOR_SVProgressHUD 0
+#define COCOAPODS_VERSION_PATCH_SVProgressHUD 0
+
+// THCalendarDatePicker
+#define COCOAPODS_POD_AVAILABLE_THCalendarDatePicker
+#define COCOAPODS_VERSION_MAJOR_THCalendarDatePicker 0
+#define COCOAPODS_VERSION_MINOR_THCalendarDatePicker 2
+#define COCOAPODS_VERSION_PATCH_THCalendarDatePicker 8
+
+// iOS-htmltopdf
+#define COCOAPODS_POD_AVAILABLE_iOS_htmltopdf
+#define COCOAPODS_VERSION_MAJOR_iOS_htmltopdf 0
+#define COCOAPODS_VERSION_MINOR_iOS_htmltopdf 0
+#define COCOAPODS_VERSION_PATCH_iOS_htmltopdf 3
+
